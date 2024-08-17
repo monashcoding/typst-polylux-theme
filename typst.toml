@@ -1,0 +1,7 @@
+[package]
+name = "mac-slides"
+version = "1.0.0"
+entrypoint = "lib.typ"
+authors = ["Lauren Yim"]
+license = "MIT"
+description = "Polyux theme for MAC slides"
